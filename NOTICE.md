@@ -10,6 +10,8 @@ This software incorporates material from third parties.
 - Measure tool
 - Peek
 
+- Tortas y Hamburguesas
+
 ## Utility: Color Picker
 
 ### Martin Chrzan's Color Picker
